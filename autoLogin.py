@@ -11,8 +11,8 @@ options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
 # 记录账号密码
-username = "295338748@qq.com"
-password = "Dengsp123456"
+username = "123456@qq.com"
+password = "123456"
 
 class VerificationCode:
     def __init__(self):
