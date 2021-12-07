@@ -20,7 +20,7 @@ class VerificationCode:
         # self.driver = webdriver.Chrome('D:\Python3.9.7\chromedriver.exe')
         self.find_element = self.driver.find_element_by_id
         # 启动浏览器
-        self.driver.get("https://alteltechnology.com/chs/login") # 打开登陆页面
+        self.driver.get("https://xxxx.com") # 打开登陆页面
     
     def get_pictures(self):
         print("==================")
